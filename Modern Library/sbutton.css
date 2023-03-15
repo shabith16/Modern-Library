@@ -1,0 +1,12 @@
+.sbutton{
+    width: 90%;
+    cursor: pointer;
+    background: linear-gradient(90deg,rgb(247, 20, 255),rgb(226, 43, 43));
+    margin-top: 30px;
+    border-radius:50px ;
+    font-size: 20px;
+   }
+   .sbutton:hover{
+    background: linear-gradient(90deg,rgb(20, 212, 255),blueviolet);
+    letter-spacing: 5px;
+   }
